@@ -36,7 +36,7 @@
 ## Resources
 
 * [Official Resources](resources/official-resources.md)
-* [Statewise list of confirmed cases.](https://www.mohfw.gov.in/)
+* [Statewise list of confirmed cases.](https://covid.injntu.com/)
 * [Effective tool to work remotely during Corona](resources/effective-tool-to-work-remotely-during-corona.md)
 * [Global Map of Corona Outbreak](https://coronavirus.jhu.edu/map.html)
 * [Sources](resources/sources.md)
